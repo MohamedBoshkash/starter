@@ -1,0 +1,37 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+/* npm run compile:sass */
+@import '../Sass/abstracts/functions.scss';
+@import '../Sass/abstracts/_mixins.scss';
+@import '../Sass/abstracts/_variables.scss';
+
+@import '../Sass/Base/_base.scss';
+@import '../Sass/Base/_typography.scss';
+@import '../Sass/Base/_utilities.scss';
+@import '../Sass/Base/_animations.scss';
+
+@import '../Sass/components/_button.scss';
+@import '../Sass/components/_card.scss';
+@import '../Sass/components/_compositions.scss';
+@import '../sass/components/feature-box.scss';
+@import '../sass/components/_story.scss';
+@import '../sass/components/_form.scss';
+@import '../sass/components/_bg-video.scss';
+
+
+@import '../Sass/layout/_grid.scss';
+@import '../Sass/layout/_header.scss';
+@import '../Sass/layout/_footer.scss';
+@import '../Sass/layout/_navigation.scss';
+
+@import '../Sass/pages/_home.scss';
+
+
+
+
